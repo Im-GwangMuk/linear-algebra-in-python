@@ -1,1 +1,1 @@
-# linear-algebra-in-python
+# Linear algebra in python
